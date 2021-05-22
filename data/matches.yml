@@ -1,0 +1,154 @@
+--- 
+first:
+  groupA:
+    - Francia: 24
+      Montenegro: 23
+
+    - Dinamarca: 30
+      Elovenia: 23
+
+    - Eslovenia: 17
+      Francia: 27
+
+    - Montenegro: 19
+      Dinamarca: 28
+
+    - Montenegro: 26
+      Eslovenia: 25
+
+    - Francia: 23
+      Dinamarca: 20
+
+  groupB:
+    - Rusia: 31
+      España: 22
+
+    - Suecia: 27
+      República Checa: 23
+
+    - República Checa: 22
+      Rusia: 24
+
+    - España: 23
+      Suecia: 23
+
+    - España: 27
+      República Checa: 24
+
+    - Rusia: 30
+      Suecia: 26
+
+  groupC:
+    - Hungría: 22
+      Croacia: 24
+
+    - Países Bajos: 25
+      Serbia: 29
+
+    - Serbia: 26
+      Hungría: 38
+
+    - Croacia: 27
+      Países Bajos: 25
+
+    - Serbia: 24
+      Croacia: 25
+
+    - Países Bajos: 28
+      Hungría: 24
+
+  groupD:
+    - Rumania: 19
+      Alemania: 22
+
+    - Noruega: 35
+      Polonia: 22
+
+    - Polonia: 24
+      Rumania: 28
+
+    - Alemania: 23
+      Noruega: 42
+
+    - Alemania: 21
+      Polonia: 21
+
+    - Rumania: 20
+      Noruega: 28
+
+second:
+  groupI:
+    - Montenegro: 23
+      Rusia: 24
+
+    - Francia: 26
+      España: 25
+
+    - Francia: 28
+      Rusia: 28
+
+    - Dinamarca: 24
+      Suecia: 22
+
+    - Montenegro: 31
+      Suecia: 25
+
+    - Dinamarca: 34
+      España: 24
+
+    - Montenegro: 26
+      España: 26
+
+    - Francia: 31
+      Suecia: 25
+
+    - Dinamarca: 30
+      Rusia: 23
+
+  groupII:
+    - Croacia: 25
+      Rumania: 20
+
+    - Países Bajos: 25
+      Noruega: 32
+
+    - Hungría: 25
+      Alemania: 32
+
+    - Croacia: 25
+      Noruega: 36
+
+    - Países Bajos: 28
+      Alemania: 27
+
+    - Hungría: 26
+      Rumania: 24
+
+    - Países Bajos: 35
+      Rumania: 24
+
+    - Croacia: 23
+      Alemania: 20
+
+    - Hungría: 21
+      Noruega: 32
+
+final:
+  fifth:
+    - Rusia: 33
+      Países Bajos: 27
+
+  semifinals:
+    - Francia: 30
+      Croacia: 19
+
+    - Noruega: 27
+      Dinamarca: 24
+
+  third:
+    - Croacia: 25
+      Dinamarca: 19
+
+  final:
+    - Francia: 20
+      Noruega: 22
